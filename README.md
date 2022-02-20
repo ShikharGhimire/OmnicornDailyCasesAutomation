@@ -1,5 +1,5 @@
 # OmnicornDailyCasesAutomation
-Visualising daily cases of Omicron (Corona Virus) using Python,SQL and Tableau
+Visualising daily cases of Omicron (Corona Virus) using Python,SQL.BS4,Selenium and Tableau
 
 - First find a way to automate the webscraping process to store in the csv file
 - Then find a way to automate the web scraped process to sql server
